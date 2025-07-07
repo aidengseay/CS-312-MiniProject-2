@@ -7,16 +7,16 @@ Adding on to the basic blog web application using NodeJS, ExpressJS, EJS, and ax
 ### Installation
 
 1. Clone the repository:
-`git clone https://github.com/aidengseay/CS-312-MiniProject-2.git`
+```git clone https://github.com/aidengseay/CS-312-MiniProject-2.git```
 
 2. Install dependencies
-`npm install`
+```npm install```
 
 3. Create a `config.env` file to hold OpenWeatherMap API key
-`OPEN_WEATHER_KEY={your_openweathermap_api_key}`
+```OPEN_WEATHER_KEY={your_openweathermap_api_key}```
 
 4. Run the server
-`node index.js`
+```node index.js```
 
 5. Go to the following below on your browser
 `http://localhost:3000`
